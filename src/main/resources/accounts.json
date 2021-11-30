@@ -1,0 +1,32 @@
+[
+  {
+    "login" : "admin",
+    "password" : "admin",
+    "permissions" : {
+      "admin" : "Y",
+      "data1" : "WR",
+      "data2" : "WR",
+      "data3" : "WR"
+    }
+  },
+  {
+    "login" : "user1",
+    "password" : "user",
+    "permissions" : {
+      "admin" : "N",
+      "data1" : "N",
+      "data2" : "N",
+      "data3" : "N"
+    }
+  },
+  {
+    "login" : "user2",
+    "password" : "user",
+    "permissions" : {
+      "admin" : "N",
+      "data1" : "R",
+      "data2" : "R",
+      "data3" : "R"
+    }
+  }
+]
